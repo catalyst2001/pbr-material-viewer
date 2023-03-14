@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\cubemap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\cubemapgenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\droptarget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\meshpbr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\quad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\src\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\cubemap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\cubemapgenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\droptarget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\meshpbr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\quad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GITHUB\pbr-material-viewer\include\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderbrdf.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderbrdf.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shadercubemap.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderequirectangular.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderirradiance.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderpbr.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderpbr.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderprefilter.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderscreen.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderscreen.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shadersinglecolor.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shadersinglecolor.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderskybox.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderskybox.vs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderwireframe.fs" />
+    <None Include="D:\GITHUB\pbr-material-viewer\resources\shaders\shaderwireframe.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{83563198-BEE7-3559-9DC5-131B9226D53F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3A10FE7E-F1B8-3C6E-B5B7-E5038D40A96F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

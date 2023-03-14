@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/GITHUB/pbr-material-viewer/CMakeLists.txt
+  camera.cpp
+  cubemap.cpp
+  cubemapgenerator.cpp
+  droptarget.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  main.cpp
+  material.cpp
+  mesh.cpp
+  meshpbr.cpp
+  quad.cpp
+  shader.cpp
+  skybox.cpp
+  sphere.cpp
+  texture.cpp
+  Создание кода...
+  pbr_demo.vcxproj -> D:\GITHUB\pbr-material-viewer\Release\pbr_demo.exe

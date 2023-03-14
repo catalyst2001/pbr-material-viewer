@@ -1,0 +1,53 @@
+﻿  Generating resource-files resource loader
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderbrdf.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderbrdf.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shadercubemap.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderequirectangular.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderirradiance.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderpbr.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderpbr.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderprefilter.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderscreen.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderscreen.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shadersinglecolor.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shadersinglecolor.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderskybox.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderskybox.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderwireframe.fs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/shaders/shaderwireframe.vs
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/albedo.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/ao.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/height.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/metal.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/normal.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/rough.png
+  Generating intermediate file for D:/GITHUB/pbr-material-viewer/resources/textures/default_env.hdr
+  Building Custom Rule D:/GITHUB/pbr-material-viewer/CMakeLists.txt
+  lib.cpp
+  shaderbrdf.fs.cpp
+  shaderbrdf.vs.cpp
+  shadercubemap.vs.cpp
+  shaderequirectangular.fs.cpp
+  shaderirradiance.fs.cpp
+  shaderpbr.fs.cpp
+  shaderpbr.vs.cpp
+  shaderprefilter.fs.cpp
+  shaderscreen.fs.cpp
+  shaderscreen.vs.cpp
+  shadersinglecolor.fs.cpp
+  shadersinglecolor.vs.cpp
+  shaderskybox.fs.cpp
+  shaderskybox.vs.cpp
+  shaderwireframe.fs.cpp
+  shaderwireframe.vs.cpp
+  albedo.png.cpp
+  ao.png.cpp
+  height.png.cpp
+  Создание кода...
+  Компиляция...
+  metal.png.cpp
+  normal.png.cpp
+  rough.png.cpp
+  default_env.hdr.cpp
+  Создание кода...
+  resource-files.vcxproj -> D:\GITHUB\pbr-material-viewer\Release\resource-files.lib

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderbrdf.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderbrdf.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shadercubemap.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderequirectangular.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderirradiance.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderpbr.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderpbr.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderprefilter.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderscreen.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderscreen.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shadersinglecolor.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shadersinglecolor.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderskybox.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderskybox.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderwireframe.fs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\shaders\shaderwireframe.vs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\albedo.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\ao.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\height.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\metal.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\normal.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\rough.png.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GITHUB\pbr-material-viewer\__cmrc_resource-files\intermediate\textures\default_env.hdr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\b29228b1bb90d70264b7c0599562b56e\lib.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderbrdf.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderbrdf.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shadercubemap.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderequirectangular.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderirradiance.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderpbr.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderpbr.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderprefilter.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderscreen.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderscreen.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shadersinglecolor.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shadersinglecolor.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderskybox.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderskybox.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderwireframe.fs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\ca145c7721cf2d0fc85d9e83e150bb3e\shaderwireframe.vs.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\albedo.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\ao.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\height.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\metal.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\normal.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\rough.png.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeFiles\028f28e97ccee3f0b3c4e7ad8b10cc76\default_env.hdr.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GITHUB\pbr-material-viewer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{96FC8F63-C674-3EC3-9095-E541F9D2759B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3A10FE7E-F1B8-3C6E-B5B7-E5038D40A96F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

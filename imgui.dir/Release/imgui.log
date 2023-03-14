@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/GITHUB/pbr-material-viewer/CMakeLists.txt
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  Создание кода...
+  imgui.vcxproj -> D:\GITHUB\pbr-material-viewer\Release\imgui.lib

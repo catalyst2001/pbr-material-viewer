@@ -1,0 +1,7 @@
+D:/GITHUB/pbr-material-viewer/CMakeFiles/resource-files.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/pbr_demo.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/stb_image.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/glad.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/imgui.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/ALL_BUILD.dir
+D:/GITHUB/pbr-material-viewer/CMakeFiles/ZERO_CHECK.dir
